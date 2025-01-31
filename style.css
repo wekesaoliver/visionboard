@@ -1,0 +1,104 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: greenyellow;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header{
+    background-color: #4caf50;
+    color: #fff;
+    padding: 20px;
+}
+
+header h1{
+    margin: 0;
+    font-size: 4.5em;
+}
+
+header p{
+    margin: 5px 0 0;
+    font-size: 3.2em;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+
+
+.img1{
+    display: flex;
+}
+
+.img2{
+    display: flex;
+}
+
+.row1{
+    display: flex;
+}
+
+.career{
+    width: 800px;
+    margin: 50px;
+    border: 2px solid greenyellow;
+}
+
+section{
+     background-color: #9aa79a;
+   
+}
+
+.row2{
+    display: flex;
+}
+
+.row3{
+    display: flex;
+}
+
+.row4{
+    display: flex;
+}
+
+.row5{
+    display: flex;
+}
+
+.row6{
+    display: flex;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero{
+    background-image: url(img/coverpage.jpg);
+    background-size: cover;
+    height: 600px;
+}
+
+.heed{
+    border: 2px solid greenyellow;
+    padding-left: 0px;
+    margin: 0px;
+    background-color: rgba(173, 255, 47, 0.5);
+}
+
+.gol1{
+    margin-top: 10px;
+}
+
+footer{
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
